@@ -3,11 +3,13 @@
     <ugl/>
     <txt>Errors</txt>
     <vpad amt="30"/>
-    <txt>Err: 1 is when the parser does not recognize the tag specified</txt>
+    <txt>Err: 1</txt>
+    <txt>When the tag specified is unknown.</txt>
     <bl/>
     <dl/>
     <bl/>
-    <txt>Err: 2 is when you are missing a required attribute in the tag specified</txt>
+    <txt>Err: 2</txt>
+    <txt>When the specified attribute is missing.</txt>
     <vpad amt="40"/>
     <dgl/>
     <tstamp/>
