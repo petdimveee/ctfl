@@ -1,0 +1,14 @@
+<CTFL>
+    <txt> W</txt>
+    <ugl/>
+    <txt>Errors</txt>
+    <vpad amt="30"/>
+    <txt>Err: 1 is when the parser does not recognize the tag specified</txt>
+    <bl/>
+    <dl/>
+    <bl/>
+    <txt>Err: 2 is when you are missing a required attribute in the tag specified</txt>
+    <vpad amt="40"/>
+    <dgl/>
+    <tstamp/>
+</CTFL>
