@@ -1,0 +1,11 @@
+<CTFL>
+    <vpad amt="10"/>
+    <glyph n="smile">
+        .#.#.
+        .#.#.
+        .....
+        #...#
+        .###.
+    </glyph>
+    <txt>hello@smile;.</txt>
+</CTFL>
