@@ -4,6 +4,7 @@
     <txt>Script Test</txt>
     <color/>
     <hgl/>
+    <color>0</color>
     <script>
         <dec v="x"/>
         <loop n="10">
@@ -11,4 +12,5 @@
             <change v="x">1</change>
         </loop>
     </script>
+    <color/>
 </CTFL>
