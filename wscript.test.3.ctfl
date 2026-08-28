@@ -1,0 +1,12 @@
+<CTFL>
+    <txt>W</txt>
+    <txt>Script Test</txt>
+    <hgl/>
+    <script>
+        <dec v="x"/>
+        <loop n="10">
+            <print m="page" t="var">x</print>
+            <change v="x">1</change>
+        </loop>
+    </script>
+</CTFL>
