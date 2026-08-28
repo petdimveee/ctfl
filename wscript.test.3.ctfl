@@ -1,6 +1,8 @@
 <CTFL>
     <txt>W</txt>
+    <color>240</color>
     <txt>Script Test</txt>
+    <color/>
     <hgl/>
     <script>
         <dec v="x"/>
