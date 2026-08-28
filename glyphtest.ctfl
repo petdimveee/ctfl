@@ -1,6 +1,6 @@
 <CTFL>
     <vpad amt="10"/>
-    <glyph n="smile">
+    <glyph name="smile">
         .#.#.
         .#.#.
         .....
