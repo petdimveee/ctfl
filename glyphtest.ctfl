@@ -1,11 +1,19 @@
 <CTFL>
     <vpad amt="10"/>
-    <glyph name="smile">
+    <glyph n="smile">
         .#.#.
         .#.#.
         .....
         #...#
         .###.
     </glyph>
+    <glyph name="check">
+        ....# 
+        ....#
+        ...#.
+        #..#.
+        .##..
+    </glyph>
     <txt>hello@smile;.</txt>
+    <btn>@check;</btn>
 </CTFL>
