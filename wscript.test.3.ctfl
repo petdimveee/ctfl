@@ -7,7 +7,7 @@
     <color>0</color>
     <script>
         <add><tstamp/></add>
-        <add>Strating script.</add>
+        <add><txt>Strating script.</txt></add>
         <dec v="x"/>
         <loop n="10">
             <print m="page" t="var">x</print>
