@@ -6,8 +6,10 @@
     <hgl/>
     <color>0</color>
     <script>
+        <add><color>120</color></add>
         <add><tstamp/></add>
         <add><txt>Strating script.</txt></add>
+        <add><color>0</color></add>
         <dec v="x"/>
         <loop n="10">
             <print m="page" t="var">x</print>
