@@ -11,10 +11,11 @@
         <add><txt>Strating script.</txt></add>
         <add><color>0</color></add>
         <dec v="x"/>
-        <loop n="10">
+        <loop n="11">
             <print m="page" t="var">x</print>
             <change v="x">1</change>
         </loop>
+        <add><ugl/></add>
     </script>
     <color/>
 </CTFL>
