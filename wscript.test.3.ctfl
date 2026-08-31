@@ -18,4 +18,6 @@
         <add><ugl/></add>
     </script>
     <color/>
+    <txt>this is a footer.</txt>
+    <hl/>
 </CTFL>
