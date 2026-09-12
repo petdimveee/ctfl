@@ -17,7 +17,7 @@
     <vpad/>
     <hl/>
     <btn/>
-    <btn>btn</btn>
+    <btn text="btn"/>
     <dgl/>
     <txt>this is a footer</txt>
     <tstamp/>
