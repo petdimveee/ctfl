@@ -14,7 +14,7 @@
             <print m="page" t="var">x</print>
             <change v="x">1</change>
         </loop>
-        <add><ugl/></add
+        <add><ugl/></add>
     </btn>
     <color>0</color>
     <script>
