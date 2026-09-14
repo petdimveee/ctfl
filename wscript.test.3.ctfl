@@ -4,13 +4,15 @@
     <txt>Script Test</txt>
     <color/>
     <hgl/>
+    <script>
+        <let v="x">1</let>
+    </script>
     <btn>
         <add><color>120</color></add>
         <add><tstamp/></add>
         <add><txt>Strating script.</txt></add>
         <add><color>0</color></add>
-        <dec v="x"/>
-        <loop n="11" >
+        <loop n="10" >
             <print m="page" t="var">x</print>
             <change v="x">1</change>
         </loop>
