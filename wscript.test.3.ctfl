@@ -17,7 +17,7 @@
             <change v="x">1</change>
         </loop>
         <add><ugl/></add>
-        <color/>
+        <add><color/></add>
     </btn>
     <color>0</color>
     <color/>
